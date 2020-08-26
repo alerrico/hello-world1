@@ -1,3 +1,6 @@
 Archivo inicial para el proyecto (repositorio) de Git.
 
 Este archivo contiene información importante para el desarrollo del curso.
+
+
+### Este repositorio también contiene la lista de compras de la semana 
